@@ -1,7 +1,6 @@
 import { faArrowRight, faLocationPin } from '@fortawesome/free-solid-svg-icons'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 
-import React from 'react'
 import { useDispatch } from 'react-redux';
 import { Link } from 'react-router-dom'
 import { toggleVisited } from '../redux/placesSlice';
@@ -13,7 +12,7 @@ function PlaceCard({place, showDetail}) {
     const {id, title, description, image, isVisited} = place;
     return (
         <div className='border rounded-lg p-3'>
-            <img src={image} alt={title} className='aspect-3/2'/>
+            <img src={image} alt={title} className='aspect-2/1 w-full'/>
 
             <div className='flex flex-col items-center'>
                 <h3>{title}</h3>
