@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "title": "Place 1",
+    "description": "Historical Place 1",
+    "image": "https://res.klook.com/image/upload/q_85/c_fill,w_750/v1769586887/uhqt28lzmefuajqnkqjk.jpg",
+    "isVisited": false
+  },
+  {
+    "id": 2,
+    "title": "Place 2",
+    "description": "Historical Place 2",
+    "image": "https://www.usnews.com/object/image/00000162-f3a3-d0d5-a57f-fbf33c300000/3-vestrahorn-iceland.jpg?update-time=1745871301820&size=responsive640",
+    "isVisited": false
+  },
+  {
+    "id": 3,
+    "title": "Place 3",
+    "description": "Historical Place 3",
+    "image": "https://www.travelandleisure.com/thmb/ip03-TS_bwMVg8elPNZ8pKaEOO8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/mt-fuji-japan-MOSTBEAUTIFUL0921-413f7d67bb4f4539a336ebba14f74ed2.jpg",
+    "isVisited": false
+  },
+  {
+    "id": 4,
+    "title": "Place 4",
+    "description": "Historical Place 4",
+    "image": "https://www.usnews.com/object/image/00000162-f3bb-d0d5-a57f-fbfb54aa0000/35-queenstown-new-zealand.jpg?update-time=1745873179323&size=responsive640",
+    "isVisited": false
+  },
+  {
+    "id": 5,
+    "title": "Place 5",
+    "description": "Historical Place 5",
+    "image": "https://assets.tommackie.com/wp-content/uploads/2021/04/27184156/140194-1.jpg",
+    "isVisited": false
+  }
+]
